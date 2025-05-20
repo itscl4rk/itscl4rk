@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./github-header.png)
 <br clear="both">
 
 <div align="center">
