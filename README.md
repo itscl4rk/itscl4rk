@@ -1,17 +1,4 @@
 ![Header](./github-header.png)
-<br clear="both">
-
-<div align="center">
-  <a href="https://youtube.com/@itscl4rk?sub_confirmation=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="126" height="48" alt="youtube logo"  />
-  </a>
-  <a href="https://dub.sh/clark-instagram" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="126" height="48" alt="instagram logo"  />
-  </a>
-  <a href="https://dub.sh/clark-twitter" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="126" height="48" alt="twitter logo"  />
-  </a>
-</div>
 
 ###
 
